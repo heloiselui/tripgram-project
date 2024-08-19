@@ -2,7 +2,7 @@
 
 This is a simple project of a travel profile, created as part of my ongoing learning and to keep my web development skills up to date. The idea is to showcase a profile displaying travel photos, with information about the traveller, visited locations, and a short summary about the passion for travel, culture, and gastronomy.
 
-![alt text](image.png)
+![alt text](assets/images/image.png)
 
 ## 📋 Overview
 
